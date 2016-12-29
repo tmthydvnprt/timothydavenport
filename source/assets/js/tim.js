@@ -1,11 +1,22 @@
 $(document).ready(function() {
+    // Load ascii "video"
     $.getJSON("json/tim.json", function(data) {
-        var headspin = $('#headspin'),
+        // Set up
+        var all = $('*'),
+            headspin = $('#headspin'),
             i = 0,
-            L = data.length;
+            L = data.length,
+            pause = false;
+        // Setup interval to draw each frame
         window.setInterval(function() {
-            headspin.text(data[i]);
-            i = (i + 1) % L;
+            if (!pause) {
+                headspin.text(data[i]);
+                i = (i + 1) % L;
+            }
         }, 20);
+        // Toggle pause
+        all.on('click', function() {
+            pause = !pause;
+        });
     });
 } );
