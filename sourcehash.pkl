@@ -33,7 +33,7 @@ S"B\x11\xfe,\xf8*'\x9d57Lo^w\xf5zO\xe5\x9e\xa9"
 p16
 sS'/Users/timothydavenport/GitHub/timothydavenport/source/assets/css/tim.css'
 p17
-S'{\x80+\x02\xa7\xb1\xb9UP&Z\x1f0kQ\xf8\xc7\x8fm\xb9'
+S'[h\xc5\n\xc3vs#\x15\x92\xe6\x00?\x17x\xcb\x90X\\\xb0'
 p18
 sS'/Users/timothydavenport/GitHub/timothydavenport/source/assets/CNAME'
 p19
