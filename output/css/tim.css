@@ -1,6 +1,6 @@
 /*!
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * asset tim.css combined on 2016-12-29T12:39:37-08:00
+ * asset tim.css combined on 2016-12-29T12:47:26-08:00
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
-body{background:Teal;color:WhiteSmoke;font-family:'Ubuntu Mono',monospace!important}#page{text-align:center}#headspin{white-space:pre;line-height:normal;color:Snow}small{color:Gainsboro!important}
+body{background:Teal;color:WhiteSmoke;font-family:'Ubuntu Mono',monospace!important}#page{text-align:center}#headspin{white-space:pre;line-height:normal;color:Snow;font-size:8px}@media(min-width:768px){#headspin{font-size:10px}}@media(min-width:992px){#headspin{font-size:12px}}@media(min-width:1200px){#headspin{font-size:14px}}small{color:Gainsboro!important}

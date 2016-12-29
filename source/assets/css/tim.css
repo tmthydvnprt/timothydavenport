@@ -10,7 +10,12 @@ body {
     white-space: pre;
     line-height: normal;
     color: Snow;
+    font-size:8px;
 }
+@media (min-width: 768px) { #headspin {font-size:10px;}}
+@media (min-width: 992px) { #headspin {font-size:12px;}}
+@media (min-width: 1200px) { #headspin {font-size:14px;}}
+
 small {
     color: Gainsboro!important;
 }
