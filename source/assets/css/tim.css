@@ -3,7 +3,6 @@ body {
     color: WhiteSmoke;
     font-family: 'Ubuntu Mono', monospace!important;
 }
-
 #page {
     text-align: center;
 }
@@ -11,7 +10,6 @@ body {
     white-space: pre;
     line-height: normal;
     color: Snow;
-    font-size: 12px;
 }
 small {
     color: Gainsboro!important;
