@@ -1,21 +1,6 @@
-body {
-    background: Teal;
-    color: WhiteSmoke;
-    font-family: 'Ubuntu Mono', monospace!important;
-}
-#page {
-    text-align: center;
-}
-#headspin {
-    white-space: pre;
-    line-height: normal;
-    color: Snow;
-    font-size:8px;
-}
-@media (min-width: 768px) { #headspin {font-size:10px;}}
-@media (min-width: 992px) { #headspin {font-size:12px;}}
-@media (min-width: 1200px) { #headspin {font-size:14px;}}
-
-small {
-    color: Gainsboro!important;
-}
+/*!
+ * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * asset tim.css combined on 2016-12-30T09:08:05-08:00
+ * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+body{background:Teal;color:WhiteSmoke;font-family:'Ubuntu Mono',monospace!important}small{color:Gainsboro!important}#page{text-align:center}.asciivideo div{white-space:pre;line-height:normal;color:Snow}#headspin{font-size:80%}.asciivideo{font-size:1px;-webkit-transition:font-size .25s ease;-moz-transition:font-size .25s ease;-ms-transition:font-size .25s ease;-o-transition:font-size .25s ease;transition:font-size .25s ease}@media(min-width:56px){.asciivideo{font-size:2px}}@media(min-width:112px){.asciivideo{font-size:3px}}@media(min-width:167px){.asciivideo{font-size:4px}}@media(min-width:223px){.asciivideo{font-size:5px}}@media(min-width:278px){.asciivideo{font-size:6px}}@media(min-width:334px){.asciivideo{font-size:7px}}@media(min-width:389px){.asciivideo{font-size:8px}}@media(min-width:445px){.asciivideo{font-size:9px}}@media(min-width:500px){.asciivideo{font-size:10px}}@media(min-width:556px){.asciivideo{font-size:11px}}@media(min-width:612px){.asciivideo{font-size:12px}}@media(min-width:667px){.asciivideo{font-size:13px}}@media(min-width:723px){.asciivideo{font-size:14px}}@media(min-width:778px){.asciivideo{font-size:15px}}@media(min-width:834px){.asciivideo{font-size:16px}}@media(min-width:889px){.asciivideo{font-size:17px}}@media(min-width:945px){.asciivideo{font-size:18px}}@media(min-width:1000px){.asciivideo{font-size:19px}}@media(min-width:1056px){.asciivideo{font-size:20px}}@media(min-width:1112px){.asciivideo{font-size:21px}}@media(min-width:1167px){.asciivideo{font-size:22px}}@media(min-width:1223px){.asciivideo{font-size:23px}}@media(min-width:1278px){.asciivideo{font-size:24px}}@media(min-width:1334px){.asciivideo{font-size:25px}}@media(min-width:1389px){.asciivideo{font-size:26px}}@media(min-width:1445px){.asciivideo{font-size:27px}}@media(min-width:1500px){.asciivideo{font-size:28px}}@media(min-width:1556px){.asciivideo{font-size:29px}}@media(min-width:1612px){.asciivideo{font-size:30px}}@media(min-width:1667px){.asciivideo{font-size:31px}}@media(min-width:1723px){.asciivideo{font-size:32px}}@media(min-width:1778px){.asciivideo{font-size:33px}}@media(min-width:1834px){.asciivideo{font-size:34px}}@media(min-width:1889px){.asciivideo{font-size:35px}}@media(min-width:1945px){.asciivideo{font-size:36px}}@media(min-width:2000px){.asciivideo{font-size:37px}}@media(min-width:2056px){.asciivideo{font-size:38px}}@media(min-width:2112px){.asciivideo{font-size:39px}}@media(min-width:2167px){.asciivideo{font-size:40px}}@media(min-width:2223px){.asciivideo{font-size:41px}}@media(min-width:2278px){.asciivideo{font-size:42px}}@media(min-width:2334px){.asciivideo{font-size:43px}}@media(min-width:2389px){.asciivideo{font-size:44px}}@media(min-width:2445px){.asciivideo{font-size:45px}}@media(min-width:2500px){.asciivideo{font-size:46px}}@media(min-width:2556px){.asciivideo{font-size:47px}}@media(min-width:2612px){.asciivideo{font-size:48px}}@media(min-width:2667px){.asciivideo{font-size:49px}}@media(min-width:2723px){.asciivideo{font-size:50px}}@media(min-width:2778px){.asciivideo{font-size:51px}}@media(min-width:2834px){.asciivideo{font-size:52px}}@media(min-width:2889px){.asciivideo{font-size:53px}}@media(min-width:2945px){.asciivideo{font-size:54px}}
