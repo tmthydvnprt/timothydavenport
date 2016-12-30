@@ -18,6 +18,7 @@ $(document).ready(function() {
     // Load ASCII "video"
     $.getJSON(ascii_vid_path, function(data) {
         var pause = false,
+            a = '',
             i = 0,
             h = 0,
             L = data.length;
@@ -25,20 +26,10 @@ $(document).ready(function() {
         // Setup interval to draw each frame
         window.setInterval(function() {
             if (!pause) {
-                if (headspin.length) {
-                    ascii_elem.text(data[i]);
-                    i = (i + 1) % L;
-                } else {
-                    h = (i + Math.floor(L / 2)) % L;
-                    ascii_elem.text(
-                          data[i] + '\n'
-                        + data[h] + '\n'
-                        + data[i] + '\n'
-                        + data[h] + '\n'
-                        + data[i]
-                    );
-                    i = (i + 1) % L;
-                }
+                h = (i + Math.floor(L / 2)) % L;
+                a = (headspin.length) ? data[i] : [data[i], data[h], data[i], data[h], data[i]].join('\n');
+                ascii_elem.text(a);
+                i = (i + 1) % L;
             }
         }, 20);
 
