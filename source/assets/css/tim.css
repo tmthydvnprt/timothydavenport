@@ -16,12 +16,12 @@ small {
 }
 
 #headspin {
-    font-size: 80%;
+    font-size: 75%;
 }
 
 .asciivideo {
     font-size: 1px;
-    transition: font-size 0.25s ease;
+    transition: font-size 0.5s ease;
 }
 @media (min-width: 56px)   { .asciivideo {font-size: 2px;}}
 @media (min-width: 112px)  { .asciivideo {font-size: 3px;}}

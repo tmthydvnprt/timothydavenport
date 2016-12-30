@@ -37,7 +37,7 @@ S"\x02i0\xacK\x9d\xde\xfe'3\xe8\xc2w\x16\xf5\xf0\x03\x17\x88\x04"
 p18
 sS'/Users/timothydavenport/GitHub/timothydavenport/source/assets/css/tim.css'
 p19
-S'S\xb3\x8bZ\xfd]\r@\x14U/&M\xf5\x86\xc0N\xa9@N'
+S'\xad\xef\xa6?.gR\x0cpi\xce\xf2\x94\x96\xfa\xf6&<\x94#'
 p20
 sS'/Users/timothydavenport/GitHub/timothydavenport/source/assets/CNAME'
 p21
